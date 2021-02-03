@@ -3,7 +3,6 @@ Rozs Raven Tio
 Neil Rendell Reglos
 Naif Jadoon
 ABC 123
-print("Hello hello hello")
-print("Hello World -Rozs Raven Tio")
+print("Hello World")
 print("Naif Jadoon")
 print("Neil Rendell Reglos")
